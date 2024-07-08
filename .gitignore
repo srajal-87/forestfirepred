@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.vscode/
+.idea/
+*.log
+*.tmp
